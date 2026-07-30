@@ -17,6 +17,7 @@ Web client for **Choice A: The Sari-Sari Store System** (The â€œData Integrityâ€
 | **Business data** | MongoDB via Express API (products, sales, orders, chat) |
 
 ### Technical justification (Web)
+https://github.com/user-attachments/assets/930fada7-c494-4a9f-b04f-a96d6223192c
 
 A sari-sari store needs a **shared counter / tablet / PC** experience more than a phone-only app:
 
